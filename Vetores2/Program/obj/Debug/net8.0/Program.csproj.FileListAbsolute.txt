@@ -1,0 +1,14 @@
+D:\Projetos\Vetores2\Program\bin\Debug\net8.0\Program.exe
+D:\Projetos\Vetores2\Program\bin\Debug\net8.0\Program.deps.json
+D:\Projetos\Vetores2\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+D:\Projetos\Vetores2\Program\bin\Debug\net8.0\Program.dll
+D:\Projetos\Vetores2\Program\bin\Debug\net8.0\Program.pdb
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\Program.dll
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\refint\Program.dll
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\Program.pdb
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+D:\Projetos\Vetores2\Program\obj\Debug\net8.0\ref\Program.dll
