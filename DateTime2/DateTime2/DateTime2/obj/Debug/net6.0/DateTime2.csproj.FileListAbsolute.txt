@@ -1,0 +1,15 @@
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\bin\Debug\net6.0\DateTime2.exe
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\bin\Debug\net6.0\DateTime2.deps.json
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\bin\Debug\net6.0\DateTime2.runtimeconfig.json
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\bin\Debug\net6.0\DateTime2.dll
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\bin\Debug\net6.0\DateTime2.pdb
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\DateTime2.csproj.AssemblyReference.cache
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\DateTime2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\DateTime2.AssemblyInfoInputs.cache
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\DateTime2.AssemblyInfo.cs
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\DateTime2.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\DateTime2.dll
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\refint\DateTime2.dll
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\DateTime2.pdb
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\DateTime2.genruntimeconfig.cache
+C:\Users\Barbara\Documents\Projetos\DateTime2\DateTime2\DateTime2\obj\Debug\net6.0\ref\DateTime2.dll
